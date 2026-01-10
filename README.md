@@ -79,7 +79,7 @@ To build an **easy-to-understand annual sales dashboard** that:
 ---
 
 ## 📷 Dashboard Preview  
-![Dashboard Screenshot](screenshots/vrinda_dashboard.png)
+https://github.com/Divyanshu819/Vrinda-Store-Annual-Report/blob/main/Vrinda%20Store%20Analysis.png
 
 ---
 
